@@ -1,0 +1,88 @@
+#: locale=pt
+
+## Media
+
+### Audio
+audiores_E399ECD9_CA9F_9F7F_41D5_B330B5573E85.mp3Url = media/audio_E49F9FEB_CA9E_9952_41B7_1189B9FCDCA9_pt.mp3
+
+### Title
+video_DCC9AFD2_C6B9_9972_41C3_BF37CDB0774B.label = Criança lendo
+panorama_DFC2B81F_C689_86F3_41E4_352C87F03288.label = Foto02
+photo_D9344756_CB09_65AC_41E8_222440DF5E96.label = PXL_20230304_183818847
+album_E4EF0A2A_CA89_FADD_41DF_CF83718896C4_3.label = WhatsApp Image 2023-03-05 at 16.09.09
+album_E4EF0A2A_CA89_FADD_41DF_CF83718896C4_5.label = WhatsApp Image 2023-03-05 at 16.09.14
+album_E4EF0A2A_CA89_FADD_41DF_CF83718896C4_4.label = WhatsApp Image 2023-03-05 at 16.09.14 (1)
+album_E4EF0A2A_CA89_FADD_41DF_CF83718896C4_6.label = WhatsApp Image 2023-03-05 at 16.09.15
+album_E4EF0A2A_CA89_FADD_41DF_CF83718896C4_0.label = ajoelhados
+panorama_DC322105_C68A_86D7_41DE_9CE3BEA37512.label = benção
+video_C7DC7154_CB07_7DAC_41E1_ABD2F1911A85.label = comunhao2
+album_E4EF0A2A_CA89_FADD_41DF_CF83718896C4_1.label = foto todos altara
+panorama_DFC1BA21_C68A_7ACE_41DF_08BFF302F9B0.label = foto01
+panorama_DFC286B5_C689_8B37_41D7_7CB0883B6751.label = foto03
+panorama_DFC285CF_C689_8952_41E1_AFEE1632BD7F.label = frente igreja
+video_E24491BA_CA87_8932_41E6_64C91893E726.label = leitura lucas
+video_C0F72C26_CB07_6BEC_41E8_70C55A3A7303.label = leitura vitor2
+album_E4EF0A2A_CA89_FADD_41DF_CF83718896C4_2.label = padre na frente deles
+video_C0C943E2_CB07_5C64_41C5_A247CAC59BA1.label = velas2
+album_E4EF0A2A_CA89_FADD_41DF_CF83718896C4.label = Álbum de Fotos ajoelhados
+
+### Video
+videolevel_D26121A6_CBFE_DCEC_41E6_41015EEFE284.posterURL = media/video_C0C943E2_CB07_5C64_41C5_A247CAC59BA1_poster_pt.jpg
+videolevel_D26121A6_CBFE_DCEC_41E6_41015EEFE284.url = media/video_C0C943E2_CB07_5C64_41C5_A247CAC59BA1_pt.mp4
+videolevel_D261B174_CBFE_DC6C_41B5_149097DF3556.posterURL = media/video_C0F72C26_CB07_6BEC_41E8_70C55A3A7303_poster_pt.jpg
+videolevel_D261B174_CBFE_DC6C_41B5_149097DF3556.url = media/video_C0F72C26_CB07_6BEC_41E8_70C55A3A7303_pt.mp4
+videolevel_D261C142_CBFE_DDA4_41E2_F3125B10A252.posterURL = media/video_C7DC7154_CB07_7DAC_41E1_ABD2F1911A85_poster_pt.jpg
+videolevel_D261C142_CBFE_DDA4_41E2_F3125B10A252.url = media/video_C7DC7154_CB07_7DAC_41E1_ABD2F1911A85_pt.mp4
+videolevel_D260A0DE_CBFE_DC5C_41D2_CCB2714CF585.posterURL = media/video_DCC9AFD2_C6B9_9972_41C3_BF37CDB0774B_poster_pt.jpg
+videolevel_D260A0DE_CBFE_DC5C_41D2_CCB2714CF585.url = media/video_DCC9AFD2_C6B9_9972_41C3_BF37CDB0774B_pt.mp4
+videolevel_D2602110_CBFE_DDA4_41D8_074B06E3E0C0.posterURL = media/video_E24491BA_CA87_8932_41E6_64C91893E726_poster_pt.jpg
+videolevel_D2602110_CBFE_DDA4_41D8_074B06E3E0C0.url = media/video_E24491BA_CA87_8932_41E6_64C91893E726_pt.mp4
+
+### Video Subtitles
+
+## Popup
+
+### Body
+htmlText_D28479C1_CB06_ACA4_41A1_804E7EC0DCE4.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;word-break:break-word;font-family:Arial, Helvetica, sans-serif;">Tia Beta e Tia Ângela</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;word-break:break-word;font-family:Arial, Helvetica, sans-serif;">Não existe explicação para tanta devoção, tampouco um resumo para tanta gratidão. Entregar nossos filhos a quem se entrega tanto para evangelizar, foi reconfortante e gratificante para nossas famílias.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;word-break:break-word;font-family:Arial, Helvetica, sans-serif;">Um poema toca nossos corações tanto quanto a mais bela melodia de uma canção. E se tivermos a capacidade de juntar os dois, isto tocará nossa alma. </SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;word-break:break-word;font-family:Arial, Helvetica, sans-serif;">Assim são vocês! Letra e música de sucesso que tocou todos os sábados na “melhor rádio”, para os melhores e mais exigentes ouvintes: Seus pupilos. </SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;word-break:break-word;font-family:Arial, Helvetica, sans-serif;">Nós, pais e mães, só temos a agradecer e reverenciar tanta dedicação e zelo no ofício de espalhar os ensinamentos e a palavra de Deus, bem como sua importância na nossa vida cristã.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;word-break:break-word;font-family:Arial, Helvetica, sans-serif;">Obrigado por tudo e por todos.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;word-break:break-word;font-family:Arial, Helvetica, sans-serif;">Que Deus lhes abençoe hoje e sempre</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV></BODY></HTML></div>
+htmlText_D3EE4DA9_CB07_64E4_41D9_43007F1573DC.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;word-break:break-word;font-family:Arial, Helvetica, sans-serif;">Tia Beta e Tia Ângela</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;word-break:break-word;font-family:Arial, Helvetica, sans-serif;">Não existe explicação para tanta devoção, tampouco um resumo para tanta gratidão. Entregar nossos filhos a quem se entrega tanto para evangelizar, foi reconfortante e gratificante para nossas famílias.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;word-break:break-word;font-family:Arial, Helvetica, sans-serif;">Um poema toca nossos corações tanto quanto a mais bela melodia de uma canção. E se tivermos a capacidade de juntar os dois, isto tocará nossa alma. </SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;word-break:break-word;font-family:Arial, Helvetica, sans-serif;">Assim são vocês! Letra e música de sucesso que tocou todos os sábados na “melhor rádio”, para os melhores e mais exigentes ouvintes: Seus pupilos. </SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;word-break:break-word;font-family:Arial, Helvetica, sans-serif;">Nós, pais e mães, só temos a agradecer e reverenciar tanta dedicação e zelo no ofício de espalhar os ensinamentos e a palavra de Deus, bem como sua importância na nossa vida cristã.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;word-break:break-word;font-family:Arial, Helvetica, sans-serif;">Obrigado por tudo e por todos.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;word-break:break-word;font-family:Arial, Helvetica, sans-serif;">Que Deus lhes abençoe hoje e sempre</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV></BODY></HTML></div>
+
+### Title
+window_D28429C1_CB06_ACA4_41E1_F565A167EAB7.title = Agradecimento
+window_D3E06DA8_CB07_64E4_41E8_9C4019CE5E23.title = Agradecimento
+
+## Skin
+
+### Button
+Button_F8F94E0A_CBFA_7ADD_41DD_A153B53D2D14.label = Começar
+Button_F8F94E0A_CBFA_7ADD_41DD_A153B53D2D14_mobile.label = Começar
+Button_EF9A1B5B_CA86_B973_41DE_06F1CFF1C922_mobile.label = Vídeo 1
+Button_EF9A1B5B_CA86_B973_41DE_06F1CFF1C922.label = Vídeo 1
+Button_EF3476F8_CA8B_8B3D_41E5_D92E6B222F98_mobile.label = Vídeo 2
+Button_EF3476F8_CA8B_8B3D_41E5_D92E6B222F98.label = Vídeo 2
+Button_EF295CAF_CA8B_9FD2_41D5_BAB65EED789D_mobile.label = Vídeo 3
+Button_EF295CAF_CA8B_9FD2_41D5_BAB65EED789D.label = Vídeo 3
+Button_EF794869_CA8B_875F_41CB_4844980A5B30_mobile.label = Vídeo 4
+Button_EF794869_CA8B_875F_41CB_4844980A5B30.label = Vídeo 4
+Button_E0CF66E8_CA86_8B5E_41E4_654EFD5C357B_mobile.label = Vídeo 5
+Button_E0CF66E8_CA86_8B5E_41E4_654EFD5C357B.label = Vídeo 5
+
+### Image
+Image_D38D2EE7_CB19_A46D_41E8_619E9538B2C5_mobile.url = skin/Image_D38D2EE7_CB19_A46D_41E8_619E9538B2C5_mobile_pt.png
+Image_D38D2EE7_CB19_A46D_41E8_619E9538B2C5.url = skin/Image_D38D2EE7_CB19_A46D_41E8_619E9538B2C5_pt.png
+Image_D399BBEF_CB1F_6C7C_41E6_B0147774140F_mobile.url = skin/Image_D399BBEF_CB1F_6C7C_41E6_B0147774140F_mobile_pt.png
+Image_D399BBEF_CB1F_6C7C_41E6_B0147774140F.url = skin/Image_D399BBEF_CB1F_6C7C_41E6_B0147774140F_pt.png
+Image_D39D064A_CB1E_A7A4_41C1_3BD534EBF0A3_mobile.url = skin/Image_D39D064A_CB1E_A7A4_41C1_3BD534EBF0A3_mobile_pt.png
+Image_D39D064A_CB1E_A7A4_41C1_3BD534EBF0A3.url = skin/Image_D39D064A_CB1E_A7A4_41C1_3BD534EBF0A3_pt.png
+Image_F9B650B6_CBFA_8733_41E5_BCB75C7B825B_mobile.url = skin/Image_F9B650B6_CBFA_8733_41E5_BCB75C7B825B_mobile_pt.png
+Image_F9B650B6_CBFA_8733_41E5_BCB75C7B825B.url = skin/Image_F9B650B6_CBFA_8733_41E5_BCB75C7B825B_pt.png
+
+### Multiline Text
+HTMLText_D94C44A0_CB0B_A4E4_41CB_9AF0ED2728D7.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:justify;font-size:13px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#000066;font-size:13px;word-break:break-word;"><B><I>Os vídeos aqui contidos foram feitos de forma amadora, através de celulares, e são de responsabilidade de seus autores. </I></B></SPAN></SPAN></DIV></div>
+HTMLText_D94C44A0_CB0B_A4E4_41CB_9AF0ED2728D7_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:justify;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#000066;font-size:7px;word-break:break-word;"><B><I>Os vídeos aqui contidos foram feitos de forma amadora, através de celulares, e são de responsabilidade de seus autores. </I></B></SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Primeiracomunhao
